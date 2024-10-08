@@ -5,7 +5,7 @@
     "height": 400,
     "title": "Trends of Communicable Diseases Over Time",
     "data": {
-      "url": "https://raw.githubusercontent.com/idarrshan/FIT3179/main/week10_hw/disease_data.csv"
+      "url": "https://raw.githubusercontent.com/idarrshan/FIT3179_Homework-Week-10/refs/heads/main/week10_hw/disease_data.csv"
     },
     "params": [
       {
